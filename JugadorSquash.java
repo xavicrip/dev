@@ -30,19 +30,19 @@ public class JugadorSquash{
 
     }
 
-    public getNombre(){
+    public String getNombre(){
 
-        return nombre;
+        return "El nombre es: " + nombre;
 
     }
 
-    public getEdad(){
+    public int getEdad(){
 
         return edad;
 
     }
 
-    public getRanking(){
+    public double getRanking(){
 
         return ranking;
 
