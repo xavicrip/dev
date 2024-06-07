@@ -21,7 +21,7 @@ public class Empleado {
 
     }
 
-    public getSueldo(){
+    public double getSueldo(){
 
         return sueldo;
 

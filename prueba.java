@@ -7,6 +7,7 @@ public class prueba {
         Scanner l = new Scanner(System.in);
         System.out.println("Sistema de Ventas de Productos: ");
         System.out.println("Sistema de Ventas de Productos: ");
+        l.nextLine();
         
 
         
